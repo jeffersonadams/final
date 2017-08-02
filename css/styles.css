@@ -1,0 +1,76 @@
+/* Styles go here */
+body {
+  padding-top: 5%;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #63cec2;
+}
+
+.loginDiv {
+  background-color: rgba(67, 75,89, 0.7);
+  width: 400px;
+  height: 300px;
+  margin: auto;
+  border-radius: 8px;
+  padding-top: 20px;
+}
+.profileDiv {
+  background-color: rgba(67, 75,89, 0.7);
+  width: 480px;
+  height: 350px;
+  margin: auto;
+  border-radius: 8px;
+  padding-top: 20px;
+}
+.fontcolor{
+  color: #f7f8f9;
+}
+.header {
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: center;
+}
+#username {
+  width: 350px;
+  height: 30px;
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+#password {
+  width: 350px;
+  height: 30px;
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+#loginbtn {
+  width: 350px;
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+  border-radius: 20px;
+  background-color: #ccc;
+  height: 40px;
+}
+#forgot {
+  font-size: 12px;
+  margin-top: 30px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+#editProfile{
+  font-size: 12px;
+  text-align:center;
+  display: block;
+  text-decoration: none;
+}
+.textHover:hover {
+  color: #63cec2;
+}
+.subtext{
+  font-size: 25px;
+  text-align: center;
+}
